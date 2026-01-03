@@ -22,10 +22,8 @@ Installation and Setup
 For Developers
 Clone the repository:
 
-Bash
-
-git clone https://github.com/103105116107/Basic_Calculator.git
-cd Basic_Calculator
+```git clone https://github.com/103105116107/Basic_Calculator.git```
+```cd Basic_Calculator```
 Open in Android Studio:
 
 Launch Android Studio.
